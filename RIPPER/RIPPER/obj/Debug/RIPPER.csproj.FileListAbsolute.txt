@@ -1,0 +1,7 @@
+C:\Users\MATTIA\Desktop\RIPPER\RIPPER\bin\Debug\RIPPER.exe.config
+C:\Users\MATTIA\Desktop\RIPPER\RIPPER\bin\Debug\RIPPER.exe
+C:\Users\MATTIA\Desktop\RIPPER\RIPPER\bin\Debug\RIPPER.pdb
+C:\Users\MATTIA\Desktop\RIPPER\RIPPER\obj\Debug\RIPPER.csproj.AssemblyReference.cache
+C:\Users\MATTIA\Desktop\RIPPER\RIPPER\obj\Debug\RIPPER.csproj.CoreCompileInputs.cache
+C:\Users\MATTIA\Desktop\RIPPER\RIPPER\obj\Debug\RIPPER.exe
+C:\Users\MATTIA\Desktop\RIPPER\RIPPER\obj\Debug\RIPPER.pdb
